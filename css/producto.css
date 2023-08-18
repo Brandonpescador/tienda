@@ -1,0 +1,21 @@
+.wrapper{
+    display: flex;
+    gap: 5px;
+    flex-wrap: wrap;
+}
+
+.card{
+    width:300vw ;
+    height: 300vw;
+}
+
+.card-img{
+    width:50% ;
+    height: 50%;
+}
+
+.card-titulo{
+    text-align: center;
+    margin: 0;
+   
+}
